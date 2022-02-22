@@ -12,6 +12,10 @@ A strict follower of software architectures, approaches, best practices, and sof
 
 **"In the past"**, had experience in many projects with complex business processes. He took part in all end-to-end processes of the projects he worked on in the early stages of his experience. Such as business analysis, technical analysis, application design, development, testing, etc.
 
+### Keep in touch!
+
+LinkedIn: https://www.linkedin.com/in/mustafacicek
+
 
 <!--
 **mstfcck/mstfcck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
