@@ -15,6 +15,7 @@ A strict follower of software architectures, approaches, best practices, and sof
 ### Keep in touch!
 
 LinkedIn: https://www.linkedin.com/in/mustafacicek
+CV: https://mstfcck.github.io/files/cv/CV-MustafaCicek-EN.pdf
 
 
 <!--
