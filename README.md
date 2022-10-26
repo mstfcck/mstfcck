@@ -12,9 +12,9 @@ A strict follower of software architectures, approaches, best practices, and sof
 
 "In the past", had experience in many projects with complex business processes. He took part in all end-to-end processes of the projects he worked on in the early stages of his experience. Such as business analysis, technical analysis, application design, development, testing, etc.
 
-* 🌍  I'm based in Turkey
+* 🌍  I'm based in Belgium
 * ✉️  You can contact me at [dev.mstfcck@outlook.com](mailto:dev.mstfcck@outlook.com)
-* 🧠  I'm learning Golang
+* 🧠  I'm learning Golang, Docker and Kubernetes
 
 <a href="https://www.twitter.com/mstfcck" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mstfcck?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
