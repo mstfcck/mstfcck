@@ -4,17 +4,17 @@ Hi 👋 It is Mustafa Çiçek!
 SOFTWARE DEVELOPER / CONSULTANT / LEAD / SENIOR / FULL-STACK...
 ------------------
 
-As a software developer, I have over ten years of expertise (since 2011).
+He is a highly skilled software developer with over 10 years of experience (since 2011).
 
-During my career, I've had the opportunity to work for various companies, projects, and teams, allowing me to be a part of many of them from the start and work with the most cutting-edge technologies of the time.
+Throughout his career, he has worked in many different companies, teams, and projects. With the advantages of this diversity, he has continued to develop his skills and has had the opportunity to work with the most cutting-edge technologies of the time.
 
-Although the Back-End, Web, and the .NET Platform are my primary areas of experience, I have also worked with a wide range of technologies, frameworks, libraries, tools, and third-party apps.
+While closely following the growth of the .NET Platform, he has also worked with many Frameworks, Libraries, and Tools, etc.
 
-Besides that, I have additional experience as a Full-Stack Developer in Java, Java Spring Boot, JavaScript, NodeJS, Windows Services, Front-End, React, Angular, Cloud, IoT, and related frameworks, libraries, etc.
+He has had considerable experience in Java, Spring Boot, JavaScript, NodeJS, Windows Services, Cloud, IoT, DevOps, Front-End, and many technologies, depending on the needs and preferences of the projects he worked on.
 
-Even though I have skills that have become rusty over time, I continue to closely follow and learn about the most cutting-edge technologies, languages, and architectures.
+Of course, he has always kept the Patterns and Practices of Software Engineering at the forefront of his work, adopting the most accepted and trending approaches and keeping many engineering approaches such as Microservices, Serverless, Event-Driven, Domain-Driven, SOLID, Cloud at the center of his work.
 
-As a real team player and a fast-adapting person, I trust my abilities and never hesitate to assume responsibility.
+Apart from technologies, one of his strengths is that he constantly monitors the change in his environment and seeks solutions in every subject and adapts quickly.
 
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [dev.mstfcck@outlook.com](mailto:dev.mstfcck@outlook.com)
