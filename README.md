@@ -36,44 +36,6 @@ src="https://img.shields.io/twitter/follow/mstfcck?logo=twitter&style=for-the-ba
 /></a><a href="https://www.github.com/mstfcck" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mstfcck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Technical Skills
-
-- C#, .NET FRAMEWORK, .NET CORE, ASP.NET CORE, ASP.NET WEB API,
-- AZURE CLOUD (WEBAPPS, FUNCTIONS, STREAM ANALYTICS, BLOB STORAGE),
-- JAVASCRIPT, NODEJS, EXPRESSJS, ELECTRON,
-- JAVA, SPRING BOOT & FRAMEWORK,
-- SQL SERVER, MONGODB, REDIS, ELASTICSEARCH, KIBANA,
-- RABBITMQ, APACHE KAFKA,
-- DEVOPS, CI-CD, JENKINS,
-- DOCKER, KUBERNETES,
-- MICROSERVICE ARCHITECTURE AND PATTERNS,
-- EVENT-DRIVEN ARCHITECTURE, CQRS, EVENT-SOURCING,
-- DOMAIN-DRIVEN DESIGN,
-- OUTBOX PATTERN,
-- INVERSION OF CONTROL,
-- DEPENDENCY INJECTION,
-- CROSS-CUTTING CONCERNS,
-- BACKEND FOR FRONTEND,
-- ASYNC COMMUNICATION PATTERNS,
-- SOLID,
-- ANTI-CORRUPTION LAYER, REPOSITORY, UNIT OF WORK,
-- AGILE, SCRUM
-
-### Soft Skills
-
-- LEADER & TEAM PLAYER
-- TEAMWORK
-- PROBLEM-SOLVING
-- CONFLICT RESOLUTION
-- ATTENTION TO DETAIL
-- ADAPTABILITY
-- DOCUMENTATION
-- COMMUNICATION
-- SELF-MOTIVATION
-- TIME MANAGEMENT
-- CUSTOMER-ORIENTED
-- EAGER TO LEARN
-
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/mstfcck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/mstfcck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mustafacicek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/689051/mstfcck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mstfcck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
