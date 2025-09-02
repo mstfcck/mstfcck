@@ -26,7 +26,8 @@ Engineer & Architect who turns complex business needs into scalable, high-qualit
 
 - Stakeholder Collaboration & Communication — run workshops, align PMs, architects and engineers, and remove ambiguity so teams deliver the right solutions faster.
 
-# Leadership & Mentorship — coach engineers, enforce engineering standards, and lead initiatives that raise team capability and delivery consistency.
+- Leadership & Mentorship — coach engineers, enforce engineering standards, and lead initiatives that raise team capability and delivery consistency.
+
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [dev.mstfcck@outlook.com](mailto:dev.mstfcck@outlook.com)
 
