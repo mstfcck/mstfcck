@@ -4,14 +4,29 @@ Hi 👋 It is Mustafa Çiçek!
 SOFTWARE DEVELOPER / CONSULTANT / LEAD / SENIOR / FULL-STACK...
 ------------------
 
-Meet Mustafa Çiçek, a dynamic software engineering professional whose decade-plus journey through the technology landscape reads like a masterclass in adaptability and excellence. Since embarking on his career in 2011, Mustafa has evolved into a truly versatile technologist, seamlessly navigating diverse companies, teams, and cutting-edge projects that have shaped him into the exceptional consultant he is today.
+Engineer & Architect who turns complex business needs into scalable, high-quality systems.
 
-What sets Mustafa apart is his curiosity about software architecture, patterns and practices rather than programming languages and tools, and his extraordinary ability to constantly improve himself in this direction. He also follows AI technologies, the most popular development of today, with great interest, while maintaining deep expertise across multiple platforms and staying ahead of the technological curve.
+- Experience (10+ years) — proven track record since 2011 delivering backend systems, integrations and cloud-native services across enterprise and startup environments.
 
-His journey with the .NET ecosystem is particularly impressive, yet his curiosity and professional growth have led him to master Java, Spring Boot, JavaScript, NodeJS, cloud technologies, and DevOps practices with equal proficiency. This rare combination of depth and breadth makes him an invaluable asset for any organization seeking a leader who can bridge multiple technology domains.
+- GenAI Adoption, Governance & Developer Enablement — leads practical GenAI adoption by running focused PoCs, building demo pipelines and delivering hands-on training that turn AI capabilities into immediate engineering improvements. Designs and prototypes agentic workflows and integrates tools like GitHub Copilot and MCP into developer pipelines to automate test generation, documentation, code reviews and architecture checks. Establishes prompt-engineering standards, lightweight governance guardrails and simple KPIs to track impact and control risk. Balances delivery with continuous experimentation and mentoring, iterating on real results to scale low-friction, high-value GenAI solutions while deepening domain expertise.
 
-Beyond his technical prowess, Mustafa embodies the modern software engineer's mindset, consistently embracing architectural patterns like Microservices, Serverless computing, Event-Driven design, and Domain-Driven development. His commitment to software engineering excellence through SOLID principles and cloud-native approaches demonstrates not just technical competence but genuine thought leadership in the field.
+- Cross-stack & Languages — hands-on with .NET (core/.NET), Java / Spring Boot and JavaScript / Node.js; comfortable shifting between stacks to pick the right tool for the problem.
 
+- Software Architecture & Patterns — design and implement microservices, event-driven systems, serverless components and cloud-native platforms; apply DDD to align models with business domains.
+
+- Code Quality & Conventions — advocate SOLID principles, clean code practices and shared coding standards to keep codebases maintainable and reviewable.
+
+- Testing & TDD — drive Test-Driven Development, comprehensive unit/integration/e2e test suites and test-first thinking across teams.
+
+- Automation & CI/CD — build test automation throughout pipelines, enforce quality gates, and create repeatable release processes that reduce risk and accelerate delivery.
+
+- DevOps & Cloud Operations — design cloud deployments, infrastructure-as-code, automated releases and runbooks with production resilience and cost-awareness in mind.
+
+- Business & Technical Analysis — translate product goals into concrete requirements and technical designs; perform business process evaluation, technical feasibility and impact analysis.
+
+- Stakeholder Collaboration & Communication — run workshops, align PMs, architects and engineers, and remove ambiguity so teams deliver the right solutions faster.
+
+# Leadership & Mentorship — coach engineers, enforce engineering standards, and lead initiatives that raise team capability and delivery consistency.
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [dev.mstfcck@outlook.com](mailto:dev.mstfcck@outlook.com)
 
